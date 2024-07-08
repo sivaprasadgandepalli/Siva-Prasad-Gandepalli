@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Siva Prasad Gandepalli</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1>Hi 👋, I'm Siva Prasad Gandepalli</h1>
+<h3>A passionate web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaprasadgandepalli&label=Profile%20views&color=0e75b6&style=flat" alt="sivaprasadgandepalli" /> </p>
 # 💫 About Me:
 🔭 I’ve built few basic projects with my knowledge such as Car rental application, Netflix landing page clone, and portfolio website.<br><br>🌱 I’ve completed full stack developer training from Technical Hub.<br><br>👯 I’m seeking opportunities to collaborate on new projects.<br><br>🤝 I’m interested in refining my skills in advanced Full stack development techniques.<br><br>💬 Feel free to ask me about React, Node, MongoDB, Express.<br><br>📫 You can reach me at sivaprasadgandepalli@gmail.com.<br><br>📄 Learn more about my experiences at [https://sivaprasadgandepalli.github.io/my-portfolio/](https://sivaprasadgandepalli.github.io/my-portfolio/<br>⚡ Fun fact
